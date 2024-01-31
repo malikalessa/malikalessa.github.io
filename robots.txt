@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://jonathancrabbe.github.io/sitemap.xml
