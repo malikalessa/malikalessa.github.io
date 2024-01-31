@@ -3,36 +3,36 @@
   <channel>
     <title>Jonathan Crabbé</title>
     <link>https://jonathancrabbe.github.io/</link>
-      <atom:link href="https://jonathancrabbe.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Jonathan Crabbé</description>
+      <atom:link href="https://malikalessa.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Malik AL-Essa</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 25 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jonathancrabbe.github.io/media/icon_hudf155d04df3b15b0b3080a45aba6eb0e_2672_512x512_fill_lanczos_center_3.png</url>
-      <title>Jonathan Crabbé</title>
-      <link>https://jonathancrabbe.github.io/</link>
+      <url>https://Malik AL-Essa.github.io/media/icon_hudf155d04df3b15b0b3080a45aba6eb0e_2672_512x512_fill_lanczos_center_3.png</url>
+      <title>Malik AL-Essa</title>
+      <link>https://malikalessa.github.io/</link>
     </image>
     
     <item>
       <title>Robust multimodal models have outlier features and encode more concepts</title>
       <link>https://jonathancrabbe.github.io/publication/eri/</link>
       <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://jonathancrabbe.github.io/publication/eri/</guid>
+      <guid>https://malikalessa.github.io/publication/eri/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Explaining the Absorption Features of Deep Learning Hyperspectral Classification Models</title>
-      <link>https://jonathancrabbe.github.io/publication/absorption/</link>
+      <link>https://malikalessa.github.io/publication/absorption/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://jonathancrabbe.github.io/publication/absorption/</guid>
+      <guid>https://malikalessa.github.io/publication/absorption/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TRIAGE: Characterizing and auditing training data for improved regression</title>
-      <link>https://jonathancrabbe.github.io/publication/triage/</link>
+      <link>https://malikalessa.github.io/publication/triage/</link>
       <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://jonathancrabbe.github.io/publication/triage/</guid>
+      <guid>https://malikalessa.github.io/publication/triage/</guid>
       <description></description>
     </item>
     
